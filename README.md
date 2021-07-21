@@ -2,7 +2,11 @@
 
 *Author*: Kassie Bradshaw
 
-[Link to PR]()
+[Link to PR]
+
+[Link to Visual A]
+
+[Link to Visual B]
 
 ## Feature Tasks
 
