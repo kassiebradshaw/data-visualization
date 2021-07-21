@@ -2,11 +2,11 @@
 
 *Author*: Kassie Bradshaw
 
-[Link to PR]
+[Link to PR](https://github.com/kassiebradshaw/data-visualization/pull/1)
 
-[Link to Visual A]
+[Link to Visual A](vis-a.ipynb)
 
-[Link to Visual B]
+[Link to Visual B](vis-b.ipynb)
 
 ## Feature Tasks
 
